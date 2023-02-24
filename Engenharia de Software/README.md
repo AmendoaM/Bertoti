@@ -7,7 +7,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 Em suma, é possível afirmar que existem diferenças entre a programação e engenharia de software. A engenharia de software é uma parte importante da programação, visto que o desenvolvimento de softwares não é o suficiente para um usuário ou programador. A programação é o modo de desenvolver um novo software. A tarefa principal da programação é desenvolver, enquanto que as tarefas desempenhadas pela engenharia de software são desenvolvimento, modificação e manutenção. 
 
-A engenharia de software é o desenvolvimento e manutenção de softwares com a influência de tecnologias e do tempo. A gerência de projetos também influencia a engenharia de software em sua produtividade e eficiência. Os trade-offs são essenciais para que o engenheiro de software coloquem na balança os pontos positivos e negativos do processo. 
+A engenharia de software é o desenvolvimento e manutenção de softwares com a influência de tecnologias e do tempo. A gerência de projetos também influencia a engenharia de software em sua produtividade e eficiência. Os trade-offs são essenciais para que o engenheiro de software coloque na balança os pontos positivos e negativos do processo. 
 
 Os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços. 
 Requisitos não funcionais são relacionados ao uso da aplicação nos quesitos desempenho, usabilidade, confiabilidade, confiança, disponibilidade, manutenção e tecnologias utilizadas  
