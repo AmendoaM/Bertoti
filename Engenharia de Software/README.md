@@ -10,7 +10,7 @@ Comentário Texto 2: Em suma, é possível afirmar que existem diferenças entre
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A engenharia de software é o desenvolvimento e manutenção de softwares com a influência de tecnologias e do tempo. A gerência de projetos também influencia a engenharia de software em sua produtividade e eficiência. Os trade-offs são essenciais para que o engenheiro de software coloque na balança os pontos positivos e negativos do processo. 
+•A engenharia de software é o desenvolvimento e manutenção de softwares com a influência de tecnologias e do tempo. A gerência de projetos também influencia a engenharia de software em sua produtividade e eficiência. Os trade-offs são essenciais para que o engenheiro de software coloque na balança os pontos positivos e negativos do processo. 
 
 Os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços. 
 Requisitos não funcionais são relacionados ao uso da aplicação nos quesitos desempenho, usabilidade, confiabilidade, confiança, disponibilidade, manutenção e tecnologias utilizadas  
