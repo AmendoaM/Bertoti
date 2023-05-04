@@ -18,5 +18,6 @@ Exemplo 1) Trade-off de uma tecnologia utilizada: a tecnologia é atual, porém 
 
 Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita memória. 
 
+• Class UML
 ![image](https://user-images.githubusercontent.com/111988963/236251393-8910d9dc-893d-45fb-9348-68d053519020.png)
 
