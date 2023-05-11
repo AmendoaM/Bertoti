@@ -16,6 +16,8 @@ Os requisitos funcionais descrevem as funcionalidades específicas e comportamen
 -Entrada de Dados: O sistema deve permitir que os usuários insiram dados em campos específicos e os armazenem em um banco de dados.
 -Geração de Relatórios: O sistema deve gerar relatórios mensais de vendas no formato PDF.
 
+
+
 •Requisitos não Funcionais:
 Os requisitos não funcionais, também conhecidos como atributos de qualidade, especificam as características gerais, restrições e qualidades do sistema de software. Eles se concentram em como o sistema deve se comportar, em vez do que ele deve fazer. Os requisitos não funcionais frequentemente estão relacionados ao desempenho do sistema, confiabilidade, segurança, usabilidade e outros aspectos. Exemplos de requisitos não funcionais incluem:
 
