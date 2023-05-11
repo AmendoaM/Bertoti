@@ -9,14 +9,24 @@ Comentário: A engenharia de software é o desenvolvimento e manutenção de sof
 Comentário Texto 2: Em suma, é possível afirmar que existem diferenças entre a programação e engenharia de software. A engenharia de software é uma parte importante da programação, visto que o desenvolvimento de softwares não é o suficiente para um usuário ou programador. A programação é o modo de desenvolver um novo software. A tarefa principal da programação é desenvolver, enquanto que as tarefas desempenhadas pela engenharia de software são desenvolvimento, modificação e manutenção. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+•Requisitos Funcionais:
+Os requisitos funcionais descrevem as funcionalidades específicas e comportamentos que um sistema de software deve apresentar. Eles definem o que o software deve fazer em termos de entrada, processamento e saída. Esses requisitos se concentram nas características do sistema, suas capacidades e interações com usuários ou outros sistemas. Exemplos de requisitos funcionais incluem:
 
-• Requisitos Funcionais e Não Funcionais
-Os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços. 
-Já os requisitos não funcionais são relacionados ao uso da aplicação nos quesitos desempenho, usabilidade, confiabilidade, confiança, disponibilidade, manutenção e tecnologias utilizadas  
+-Login: O sistema deve fornecer um mecanismo de login para os usuários se autenticarem.
+-Entrada de Dados: O sistema deve permitir que os usuários insiram dados em campos específicos e os armazenem em um banco de dados.
+-Geração de Relatórios: O sistema deve gerar relatórios mensais de vendas no formato PDF.
 
-Exemplo 1) Trade-off de uma tecnologia utilizada: a tecnologia é atual, porém demanda tempo pra aprendê-la. 
+•Requisitos não Funcionais:
+Os requisitos não funcionais, também conhecidos como atributos de qualidade, especificam as características gerais, restrições e qualidades do sistema de software. Eles se concentram em como o sistema deve se comportar, em vez do que ele deve fazer. Os requisitos não funcionais frequentemente estão relacionados ao desempenho do sistema, confiabilidade, segurança, usabilidade e outros aspectos. Exemplos de requisitos não funcionais incluem:
 
-Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita memória. 
+-Desempenho: O sistema deve responder a consultas de usuários em menos de 2 segundos.
+-Segurança: O sistema deve garantir a proteção dos dados confidenciais dos usuários por meio de criptografia.
+-Usabilidade: O sistema deve ser intuitivo e fácil de usar, com uma interface amigável para o usuário.
+
+
+•Exemplo 1) Trade-off de uma tecnologia utilizada: a tecnologia é atual, porém demanda tempo pra aprendê-la. 
+
+•Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita memória. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
