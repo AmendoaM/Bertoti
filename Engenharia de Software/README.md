@@ -25,5 +25,3 @@ Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita mem
 ![image](https://github.com/AmendoaM/Bertoti/assets/111988963/41e989bd-15e1-4c2b-b543-d2499898fb89)
 
 
-![image](https://user-images.githubusercontent.com/111988963/236251393-8910d9dc-893d-45fb-9348-68d053519020.png)
-
