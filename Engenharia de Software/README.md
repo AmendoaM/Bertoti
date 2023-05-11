@@ -9,7 +9,7 @@ Comentário: A engenharia de software é o desenvolvimento e manutenção de sof
 Comentário Texto 2: Em suma, é possível afirmar que existem diferenças entre a programação e engenharia de software. A engenharia de software é uma parte importante da programação, visto que o desenvolvimento de softwares não é o suficiente para um usuário ou programador. A programação é o modo de desenvolver um novo software. A tarefa principal da programação é desenvolver, enquanto que as tarefas desempenhadas pela engenharia de software são desenvolvimento, modificação e manutenção. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-•Requisitos Funcionais:
+• Requisitos Funcionais:
 Os requisitos funcionais descrevem as funcionalidades específicas e comportamentos que um sistema de software deve apresentar. Eles definem o que o software deve fazer em termos de entrada, processamento e saída. Esses requisitos se concentram nas características do sistema, suas capacidades e interações com usuários ou outros sistemas. Exemplos de requisitos funcionais incluem:
 
 -Login: O sistema deve fornecer um mecanismo de login para os usuários se autenticarem.
@@ -18,7 +18,7 @@ Os requisitos funcionais descrevem as funcionalidades específicas e comportamen
 
 
 
-•Requisitos não Funcionais:
+• Requisitos não Funcionais:
 Os requisitos não funcionais, também conhecidos como atributos de qualidade, especificam as características gerais, restrições e qualidades do sistema de software. Eles se concentram em como o sistema deve se comportar, em vez do que ele deve fazer. Os requisitos não funcionais frequentemente estão relacionados ao desempenho do sistema, confiabilidade, segurança, usabilidade e outros aspectos. Exemplos de requisitos não funcionais incluem:
 
 -Desempenho: O sistema deve responder a consultas de usuários em menos de 2 segundos.
@@ -26,9 +26,9 @@ Os requisitos não funcionais, também conhecidos como atributos de qualidade, e
 -Usabilidade: O sistema deve ser intuitivo e fácil de usar, com uma interface amigável para o usuário.
 
 
-•Exemplo 1) Trade-off de uma tecnologia utilizada: a tecnologia é atual, porém demanda tempo pra aprendê-la. 
+• Exemplo 1) Trade-off de uma tecnologia utilizada: a tecnologia é atual, porém demanda tempo pra aprendê-la. 
 
-•Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita memória. 
+• Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita memória. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
