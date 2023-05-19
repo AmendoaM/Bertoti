@@ -34,6 +34,5 @@ Os requisitos não funcionais, também conhecidos como atributos de qualidade, e
 
 • Class UML
 
-![image](https://github.com/AmendoaM/Bertoti/assets/111988963/41e989bd-15e1-4c2b-b543-d2499898fb89)
-
+![image](https://github.com/AmendoaM/Bertoti/assets/111988963/654be2d9-cea8-4fc0-8d95-d535debd31f7)
 
