@@ -25,10 +25,12 @@ Os requisitos não funcionais, também conhecidos como atributos de qualidade, e
 -Segurança: O sistema deve garantir a proteção dos dados confidenciais dos usuários por meio de criptografia.
 -Usabilidade: O sistema deve ser intuitivo e fácil de usar, com uma interface amigável para o usuário.
 
+• Em engenharia de software, trade-offs (compromissos) referem-se à prática de fazer escolhas entre diferentes opções, considerando os prós e contras de cada uma delas. Essas escolhas envolvem geralmente decidir sobre aspectos como desempenho, funcionalidade, custo, tempo de desenvolvimento, complexidade, manutenibilidade e usabilidade de um software.
 
-• Exemplo 1) Trade-off de uma tecnologia utilizada: a tecnologia é atual, porém demanda tempo pra aprendê-la. 
+- Exemplo 1) A interface GUI do java swing é de difícil manipulação, porém de fácil visualização.
+Trade-off de uma tecnologia utilizada: a tecnologia é atual, porém demanda tempo pra aprendê-la. 
 
-• Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita memória. 
+- Exemplo 2) Software completo, com bastante usabilidade, porém demanda muita memória. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
