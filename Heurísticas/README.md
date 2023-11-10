@@ -53,7 +53,7 @@ Devemos minimizar a quantidade de informações que o usuário precisa memorizar
 
 Comentário: O aplicativo a seguir é o Shein. Existem dois menus, um em cima e outro na lateral, com algumas informações repetidas desnecessariamente. 
 
-![image](https://github.com/AmendoaM/Bertoti/assets/111988963/a612c253-52c1-4d95-a126-03db32a6ca48)
+![image](https://github.com/AmendoaM/Bertoti/assets/111988963/e91b9b9b-cda3-4a1e-97f3-133a7d8f3334)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
