@@ -90,5 +90,8 @@ Comentário: O aplicativo a seguir é o Ifood, apesar do erro estar discriminado
 10 – Ajuda e documentação
 Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas de documentação e ajuda sejam as menos acessadas, elas devem estar lá, principalmente em interfaces que possuem muitas possibilidades, pois podem ajudar o usuário a resolver um problema sozinho.  
 
-Comentário: O aplicativo a seguir 
+Comentário: O aplicativo a seguir não contém uma seção de ajuda ao usuário para possíveis dúvidas.
+
+![image](https://github.com/AmendoaM/Bertoti/assets/111988963/4d7d60bb-2446-4f29-9634-315b4d5558a3)
+
 
