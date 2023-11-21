@@ -1,4 +1,5 @@
 1 – Visibilidade do Status do sistema
+
 O sistema deve sempre manter os usuários informados sobre o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, que servirão para orientar o usuário sobre o que está acontecendo na tela em que ele se encontra.
 
 Comentário: O aplicativo a seguir é o moovit (aplicativo que ajuda passageiros com horários de ônibus). Porém, a função de mostrar o tempo de chegada do passageiro não funciona propriamente quando o ônibus está vindo, causando confusão para os usuários.
